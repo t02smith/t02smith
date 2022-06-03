@@ -5,6 +5,7 @@ Hi, I'm Tom!
 I'm currently a 2nd BSc Computer Science student @ the University of Southampton
 
 I'm currently working on:\
+🔭 moneytracker - A CLI tool to track expenses using Python and SQLite\
 🔭 Gitto - A version control system using Python, Spring Boot, React.js
 
 I'm currently learning:\
@@ -17,10 +18,11 @@ I'm currently learning:\
 
 # 📊 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t02smith&langs_count=3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t02smith&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 🌐 Links
 
-**Website**: [t02smith.com](https://t02smith.com)\
-**Email**: [tcs1g20](mailto:tcs1g20@soton.ac.uk)
+🕸️ **Website**: [www.t02smith.com](https://www.t02smith.com)\
+📧 **Email**: [tcs1g20](mailto:tcs1g20@soton.ac.uk)\
+📖 **Linkedin**: [Tom Smith](www.linkedin.com/in/tom-smith-uos)
