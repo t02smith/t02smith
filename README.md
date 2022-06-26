@@ -5,11 +5,12 @@ Hi, I'm Tom!
 I'm currently a 2nd BSc Computer Science student @ the University of Southampton
 
 I'm currently working on:\
-🔭 moneytracker - A CLI tool to track expenses using Python and SQLite\
 🔭 Gitto - A version control system using Python, Spring Boot, React.js
 
 I'm currently learning:\
 🌱 Spring Boot w/ Spring Data JPA \
+🌱 TypeScript \
+🌱 Golang \
 🌱 PostgreSQL
 
 # 💻 Tech Stack
