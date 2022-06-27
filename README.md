@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="200"/>
 
   <div id="badges">
-    <a href="www.linkedin.com/in/tom-smith-uos">
+    <a href="http://www.linkedin.com/in/tom-smith-uos">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="www.t02smith.com">
+    <a href="http://www.t02smith.com">
       <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fshields.io" alt="Website"/>
     </a>
     <a href="mailto:tom@t02smith.com">
