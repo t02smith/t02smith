@@ -7,11 +7,8 @@
     <a href="http://www.linkedin.com/in/tom-smith-uos">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="http://www.t02smith.com">
+    <a href="http://tomsmith.dev">
       <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2Fshields.io" alt="Website"/>
-    </a>
-    <a href="mailto:tom@t02smith.com">
-      <img src="https://img.shields.io/badge/-Email_ME-red?style=for-the-badge" alt="Twitter Badge"/>
     </a>
   
 </div>
@@ -21,20 +18,13 @@
 
 # 💫 About Me
 
-I'm currently a 3nd year BSc Computer Science student @ the University of Southampton
-
-I'm currently working on:\
-🔭 Blockchain for Decentralised Software Distribution \
-🔭 Untitled group and solo cloud applications
-
-I'm currently learning:\
-🌱 Vue w/ Nuxt & Pinia \
-🌱 Azure & Google Cloud platform \
+I'm currently working as a Junior Full-Stack Software Engineer developing with Java Spring, TypeScript and Angular for a microservice-based application powered by Kubernetes. I'm also a hobbyist who likes messing around with websites, building computers and messing around with Raspberry Pis. Check out my blog (https://tomsmith.dev/blog) to see things I'm interested in.
 
 # 💻 Tech Stack
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
@@ -52,6 +42,7 @@ I'm currently learning:\
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
@@ -60,4 +51,4 @@ I'm currently learning:\
 
 # 📊 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t02smith&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t02smith)](https://github.com/anuraghazra/github-readme-stats)
